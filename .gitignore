@@ -1,2 +1,5 @@
 # ignore all .pyc file
 *.pyc
+
+# ignore all .log file
+LogDir/*.log

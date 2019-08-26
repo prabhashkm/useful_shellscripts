@@ -2,4 +2,4 @@
 *.pyc
 
 # ignore all .log file
-#LogDir/*.log
+LogDir/*.log
